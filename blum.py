@@ -2,7 +2,7 @@ import requests
 import time
 import os
 
-auth_token = "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJoYXNfZ3Vlc3QiOmZhbHNlLCJ0eXBlIjoiQUNDRVNTIiwiaXNzIjoiYmx1bSIsInN1YiI6Ijg3YzI0OTgwLWI1NGItNGY2MS04Nzc0LWIzM2M4NTBhZGIxMiIsImV4cCI6MTcyNTIxNTM4NCwiaWF0IjoxNzI1MjExNzg0fQ.MDm1pt25-IJgLWjr1eE9veX2_HK7ZKa558swXel_PX8"
+auth_token = "Bearer eyXXXXXXXXXXXX"
 
 headers = {
     "accept": "application/json, text/plain, */*",
