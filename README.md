@@ -1,2 +1,14 @@
 # blum
 BLUM [@blumcrypto]
+
+SCRIPT INFO:
+> 1. GET USER INFORMATION (USERNAME, BALANCE, PLAYPASSES)<br>
+> 2. AUTO FARMING<br>
+> 3. AUTO COMPLETE TASKS (START TASKS AND CLAIM REWARDS)<br>
+
+MORE TO COME...
+
+<hr>
+
+eyXXXXXXXXXXXX = Your Authorization
+> don't remove "Bearer"
